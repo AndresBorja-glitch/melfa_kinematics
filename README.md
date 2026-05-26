@@ -31,4 +31,10 @@ Repositorio de estudio para aprender Git, GitHub y modularización de código us
 \- notebooks/: notebooks originales
 
 \- src/: código reusable del proyecto
+## Estado del proyecto
 
+Proyecto académico para aprendizaje de:
+- Git
+- GitHub
+- Python modular
+- Cinemática robótica
